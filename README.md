@@ -1,2 +1,2 @@
 # PacketTracerStarTopology
-A simple project of star topology
+Um projeto simples sobre topologia estrela, usando um switch e 4 computadores
